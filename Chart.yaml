@@ -1,0 +1,8 @@
+apiVersion: v2
+name: gcloudutils
+version: 0.0.1
+dependencies:
+  - name: gcloudutils
+    repository: oci://us-docker.pkg.dev/eiq-artifactory/helm-charts/gcloudutils
+    version: 0.0.1
+
